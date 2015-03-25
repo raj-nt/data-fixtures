@@ -363,4 +363,11 @@ class Loader
 
         return $fixtures;
     }
+
+    /**
+     * Set File Extension for Fixture Files
+     */
+    public function setFileExtension($fileExtension) {
+        $this->fileExtension = $fileExtension;
+    }
 }

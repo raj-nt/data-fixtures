@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/data-fixtures",
+    "name": "raj-nt/data-fixtures",
     "type": "library",
     "description": "Data Fixtures for all Doctrine Object Managers",
     "keywords": ["database"],
